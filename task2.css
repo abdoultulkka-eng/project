@@ -98,6 +98,7 @@ h1{ text-align: center;
     cursor: pointer;
     background-color: rgb(237, 216, 216);
         box-shadow: rgb(98, 24, 24) 5px 5px 15px;
+  float:none;
 
 
 }
